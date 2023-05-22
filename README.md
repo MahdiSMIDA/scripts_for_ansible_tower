@@ -1,6 +1,6 @@
 # Script
 
-This is the documentation for your script.
+This is the documentation for waiting status for Ansible Automation platform Job script using API V2.
 
 ## Installation
 
