@@ -6,7 +6,7 @@ This is the documentation for your script.
 
 To install the script, follow these steps:
 
-1. Install the required dependencies: requests, beautifulsoup4.
+1. Install the required dependencies: requests
 2. Download the script file: `wait_status.py`.
 
 ## Usage
