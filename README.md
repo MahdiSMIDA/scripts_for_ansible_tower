@@ -6,8 +6,8 @@ This is the documentation for waiting status for Ansible Automation platform Job
 
 To install the script, follow these steps:
 
-1. Install the required dependencies: requests
-2. Download the script file: `wait_status.py`.
+1. Install the required dependencies: ***python3 and requests***
+3. Download the script file: `wait_status.py`.
 
 ## Usage
 
